@@ -7,7 +7,7 @@ export const navbarData = [
     {
         routeLink: 'products',
         icon: 'fal fa-box-open',
-        label: 'Products'
+        label: 'Projects'
     },
     {
         routeLink: 'statistics',
@@ -17,17 +17,17 @@ export const navbarData = [
     {
         routeLink: 'coupens',
         icon: 'fal fa-tags',
-        label: 'Coupens'
+        label: 'Contractor Sites'
     },
     {
         routeLink: 'pages',
         icon: 'fal fa-file',
-        label: 'Pages'
+        label: 'Reports'
     },
     {
         routeLink: 'media',
         icon: 'fal fa-camera',
-        label: 'Media'
+        label: 'Site Images'
     },
     {
         routeLink: 'settings',

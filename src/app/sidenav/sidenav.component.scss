@@ -1,5 +1,5 @@
 .sidenav {
-    background: #263238;
+    background: #07a5c5;
     transition: all .5s ease;
     position: fixed;
     z-index: 1;
@@ -15,7 +15,7 @@
         width: 100%;
 
         .logo {
-            background: #fff;
+            background: #f7ea00;
             text-align: center;
             width: 3rem;
             min-width: 3rem;
@@ -44,7 +44,7 @@
             border: none;
 
             .fa-times {
-                color: #fff;
+                color: #f7ea00;
                 font-size: 24px;
             }
         }
@@ -94,14 +94,14 @@
 
     .sidenav-nav-item:hover {
         .sidenav-nav-link {
-            background-color: #fff;
+            background-color: #dfded8;
             color: #000;
         }
     }
 }
 
 .active {
-    background-color: #fff;
+    background-color: #dfded8;
 
     .sidenav-link-icon,
     .sidenav-link-text {
