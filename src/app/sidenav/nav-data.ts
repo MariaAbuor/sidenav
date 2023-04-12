@@ -6,32 +6,32 @@ export const navbarData = [
     },
     {
         routeLink: 'products',
-        icon: 'fal fa-box-open',
+        icon: 'fal fa-info-circle',
         label: 'Loan Details'
     },
     {
         routeLink: 'statistics',
-        icon: 'fal fa-chart-bar',
+        icon: 'fal fa-chart-line-down',
         label: 'Limit Details'
     },
     {
         routeLink: 'coupens',
-        icon: 'fal fa-tags',
+        icon: 'fal fa-list-ul',
         label: 'Statement'
     },
     {
         routeLink: 'pages',
-        icon: 'fal fa-file',
+        icon: 'fal fa-piggy-bank',
         label: 'Savings'
     },
     {
         routeLink: 'media',
-        icon: 'fal fa-camera',
+        icon: 'fal fa-hand-holding-usd',
         label: 'Voluntary Savings'
     },
     {
         routeLink: 'settings',
-        icon: 'fal fa-cog',
+        icon: 'fal fa-user-plus',
         label: 'Opt-In Details'
     },
 ];
