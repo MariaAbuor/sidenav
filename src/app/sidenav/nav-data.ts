@@ -7,31 +7,31 @@ export const navbarData = [
     {
         routeLink: 'products',
         icon: 'fal fa-box-open',
-        label: 'Projects'
+        label: 'Loan Details'
     },
     {
         routeLink: 'statistics',
         icon: 'fal fa-chart-bar',
-        label: 'Statistics'
+        label: 'Limit Details'
     },
     {
         routeLink: 'coupens',
         icon: 'fal fa-tags',
-        label: 'Contractor Sites'
+        label: 'Statement'
     },
     {
         routeLink: 'pages',
         icon: 'fal fa-file',
-        label: 'Reports'
+        label: 'Savings'
     },
     {
         routeLink: 'media',
         icon: 'fal fa-camera',
-        label: 'Site Images'
+        label: 'Voluntary Savings'
     },
     {
         routeLink: 'settings',
         icon: 'fal fa-cog',
-        label: 'Settings'
+        label: 'Opt-In Details'
     },
 ];
